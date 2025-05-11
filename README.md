@@ -12,8 +12,6 @@
 
 ### 🚀 **My Projects**  
 - [Curso-em-Video-Python](https://github.com/GabrielaY07/Curso-em-Video-Python): Exercícios e projetos do curso de Python.  
-- [PortfolioHUB](https://github.com/GabrielaY07/PortfolioHUB): Meu portfólio de projetos acadêmicos e pessoais.  
-
 🔍 **Exploring**: Python, C, JAVASCRIPT, database
 
 <!---
