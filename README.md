@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning **advanced Python, Django, and machine learning**.  
 - 🤝 I’m looking to collaborate on **open-source projects, educational tools, or Python scripts**.  
 - 📫 How to reach me:  
-  - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-linkedin)  
-  - Email: seu.email@exemplo.com  
+  - LinkedIn:[ (https://www.linkedin.com/in/gabriela-yasmin-121374207/) 
+  - Email: gabriela.y@sempreceub.com  
 - 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes!** (ou qualquer curiosidade sua)  
+- ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes!**  
 
 ---
 
